@@ -1,0 +1,1 @@
+Introduce a getter for the instance variable that you want to mock. You will use this getter everywhere to access the variable and override it in tests to mock it.

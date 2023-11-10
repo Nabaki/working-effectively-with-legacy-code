@@ -1,0 +1,1 @@
+Use extract and override factory method
